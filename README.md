@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou o Victor!
 
-Desenvolvedor de sistemas e **analista de EFD ICMS IPI** apaixonado por automatizar processos fiscais e criar micro‑serviços eficientes. Fã da série **Mr. Robot**, me identifico com o personagem Elliot e sempre busco pensar fora da caixa. Sou autodidata e aprendo melhor com exemplos práticos, visualização e prática.
+Desenvolvedor de sistemas apaixonado por automatizar processos e criar micro‑serviços eficientes. Fã da série **Mr. Robot**,  sempre busco pensar fora da caixa.
 
 ## 🧐 Sobre mim
 
-- 🎓 Formado em Desenvolvimento de Sistemas e atuando como analista de EFD ICMS IPI.
+- 🎓 Formando em Comércio Exterior.
 - 🏡 Vivo em Nova Iguaçu, RJ – Brasil.
-- 🧑‍💻 Trabalhando com automação de notas fiscais e integração de micro‑serviços em .NET.
-- 🎮 Fã de filmes e séries sobre tecnologia, principalmente *Mr. Robot*.
+- 🧑‍💻 Trabalhando com automação tributária, notas fiscais, criação e integração de RPAs e micro‑serviços em .NET.
+- 🎮 Gamer e Fã de séries sobre tecnologia.
 - 🔍 Sempre buscando aprender novas tecnologias e melhorar processos através de prática e exemplos reais.
 
 ## 🛠️ Tecnologias e linguagens
