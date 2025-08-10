@@ -10,10 +10,16 @@ Desenvolvedor de sistemas apaixonado por automatizar processos e criar micro‑s
 - 🎮 Gamer e Fã de séries sobre tecnologia.
 - 🔍 Sempre buscando aprender novas tecnologias e melhorar processos através de prática e exemplos reais.
 
-## 🛠️ Tecnologias e linguagens
+## 🛠️ linguagens
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=csharp,dotnet,js,nodejs,html,css,python,sql,git,docker,azure,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=dotnet,python,js,html,css" />
+</p>
+
+## 🌐 Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,azure,visualstudio,selenium" />
 </p>
 
 ## 📊 Estatísticas
