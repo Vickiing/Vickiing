@@ -44,7 +44,7 @@ Utilizo diversas ferramentas para construir soluções eficientes. Abaixo estão
 
 ## 🌟 Projetos em destaque
 
-Alguns repositórios que ilustram meu trabalho recente. Estes cartões são gerados automaticamente por [github‑readme‑stats](https://github.com/anuraghazra/github-readme-stats) e refletem estatísticas em tempo real.
+Alguns repositórios que ilustram meu trabalho recente.
 
 <p align="center">
   <a href="https://github.com/Vickiing/rpa-fiscal-automation">
@@ -62,7 +62,7 @@ Alguns repositórios que ilustram meu trabalho recente. Estes cartões são gera
 
 ## 📊 Estatísticas
 
-Os widgets abaixo mostram minhas estatísticas de desenvolvimento no GitHub. Incluir estatísticas no perfil ajuda recrutadores e colaboradores a entender sua atividade de codificação【517589653867503†L217-L222】. Eles exibem contribuições, linguagens mais usadas e sequência de commits.
+Os widgets abaixo mostram minhas estatísticas de desenvolvimento no GitHub.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vickiing&show_icons=true&include_all_commits=true&theme=default&custom_title=Estat%C3%ADsticas%20do%20GitHub" alt="GitHub Stats" height="180"/>
@@ -77,7 +77,7 @@ Os widgets abaixo mostram minhas estatísticas de desenvolvimento no GitHub. Inc
 
 ## 💌 Contato
 
-- 🌐 [LinkedIn](https://linkedin.com/in/seu-perfil) • ✉️ [Email](mailto:seu_email@exemplo.com) • 🌍 [Portfólio](https://seu-site.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/victorsilva00/) • ✉️ [Email](mailto:victor.lima.silva@hotmail.com)
 
 Sinta‑se à vontade para entrar em contato para discutir projetos ou oportunidades de colaboração!
 
