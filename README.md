@@ -42,21 +42,12 @@ Utilizo diversas ferramentas para construir soluções eficientes. Abaixo estão
 
 ---
 
-## 🌟 Projetos em destaque
-
-Alguns repositórios que ilustram meu trabalho recente.
-
-<p align="center">
-  <a href="https://github.com/Vickiing/rpa-fiscal-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vickiing&repo=rpa-fiscal-automation&show_icons=true&theme=default" alt="rpa-fiscal-automation repo card"/>
-  </a>
-  <a href="https://github.com/Vickiing/microservices-net">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vickiing&repo=microservices-net&show_icons=true&theme=default" alt="microservices-net repo card"/>
-  </a>
-  <a href="https://github.com/Vickiing/data-insights-fiscal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vickiing&repo=data-insights-fiscal&show_icons=true&theme=default" alt="data-insights-fiscal repo card"/>
-  </a>
-</p>
+## 🌟 Projetos em destaqu>
+- [FiscalAutomator](https://github.com/Vickiing/FiscalAutomator) (privado) — Framework de automação fiscal, geração de obrigações e integrações com sistemas ERP.
+- [FiscalAutomator.RPA.Microservices](https://github.com/Vickiing/FiscalAutomator.RPA.Microservices) (privado) — Micro‑serviços RPA para captura de dados e processamento tributário.
+- [EfdCompara](https://github.com/Vickiing/EfdCompara) (privado) — Ferramenta para comparar arquivos EFD e identificar divergências.
+- [Parser-DI](https://github.com/Vickiing/Parser-DI) (privado) — Biblioteca para análise e extração de informações fiscais.
+- [DARJ-GNRE_selenium](https://github.com/Vickiing/DARJ-GNRE_selenium) (privado) — Automação Selenium para emissão de DARJ/GNRE.
 
 ---
 
