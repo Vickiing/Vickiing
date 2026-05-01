@@ -29,8 +29,6 @@
 - 🎓 Graduando em Engenharia de Software, sempre buscando aprender algo novo.
 - 🚀 Busco sempre eficiência, qualidade de código e impacto real no negócio.
 
-> Essas sugestões refletem boas práticas de perfis do GitHub, que recomendam destacar as suas habilidades com ícones em vez de listas de texto【504418727504164†L149-L167】.
-
 ---
 
 ## ⚙️ Stack principal
