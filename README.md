@@ -42,7 +42,7 @@ Utilizo diversas ferramentas para construir soluções eficientes. Abaixo estão
 
 ---
 
-## 🌟 Projetos em destaqu>
+## 🌟 Projetos em destaque
 - [FiscalAutomator](https://github.com/Vickiing/FiscalAutomator) (privado) — Framework de automação fiscal, geração de obrigações e integrações com sistemas ERP.
 - [FiscalAutomator.RPA.Microservices](https://github.com/Vickiing/FiscalAutomator.RPA.Microservices) (privado) — Micro‑serviços RPA para captura de dados e processamento tributário.
 - [EfdCompara](https://github.com/Vickiing/EfdCompara) (privado) — Ferramenta para comparar arquivos EFD e identificar divergências.
